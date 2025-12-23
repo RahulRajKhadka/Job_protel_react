@@ -1,0 +1,18 @@
+
+import './index.css'
+import {Button} from "./components/ui/button.jsx"
+
+const router=
+
+function App() {
+ 
+
+  return (
+    <>
+      <div className='bg-red-700'>Hello Nepal welcome </div>
+      <Button>Login</Button>
+    </>
+  )
+}
+
+export default App
